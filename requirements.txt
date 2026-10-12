@@ -1,0 +1,7 @@
+mlx==0.30.3
+mlx-lm==0.30.4
+chromadb==1.5.8
+PyMuPDF==1.27.2.3
+rank-bm25==0.2.2
+sentence-transformers==5.4.1
+rich==14.2.0

@@ -1,0 +1,236 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What sustainability goals did Microsoft announce in 2020?",
+    "source_page": 5,
+    "retrieved_pages": [
+      5,
+      25,
+      34,
+      3,
+      98
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Microsoft announced goals to become a carbon negative, water positive, and zero waste company by 2030. [page 5, page 25]",
+    "rag_score": 1.0,
+    "baseline_answer": "Microsoft announced several sustainability goals in 2020. One of the key goals was to be carbon negative by 2030. This means that Microsoft aims to remove more carbon from the atmosphere than it emits. Additionally, the company set a goal to be water positive by 2030, which means it will return more water to nature than it uses.\n\nMicrosoft also set a goal to power 100% of its data centers and facilities with renewable energy by 2025. Furthermore, the company aims to reduce its greenhouse gas emissions from its operations by 75% by 2030, compared to its 2013 baseline.\n\nThese goals are part of Microsoft's broader sustainability strategy, which includes reducing its environmental impact, promoting digital inclusion, and supporting the communities in which it operates.\n\nIt's worth noting that these goals are outlined in Microsoft's 2020 10-K filing, which is a comprehensive report on the company's financial and operational performance for the fiscal year 2020.",
+    "baseline_score": 0.75
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "What does LinkedIn's Talent Solutions and Marketing Solutions business do?",
+    "source_page": 6,
+    "retrieved_pages": [
+      6,
+      36,
+      6,
+      4,
+      34
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "LinkedIn's Talent Solutions and Marketing Solutions business offers AI-enabled insights and productivity. The exact details of their business are not provided in the given context, but it is mentioned that they provide value for LinkedIn members and customers. \n\n(page 6)",
+    "rag_score": 1.0,
+    "baseline_answer": "Based on LinkedIn's most recent 10-K filing, LinkedIn's Talent Solutions and Marketing Solutions business provides two main services:\n\n1. Talent Solutions: This segment offers a range of products and services that help businesses find, attract, and hire the right talent. These solutions include job postings, recruitment marketing, and applicant tracking systems. They also provide tools for companies to manage their workforce, including skills assessments and training programs.\n\n2. Marketing Solutions: This segment provides a range of products and services that help businesses reach and engage with their target audience. These solutions include sponsored content, sponsored InMail, and display ads. They also offer tools for businesses to measure the effectiveness of their marketing campaigns and track their return on investment (ROI).\n\nThese two segments are the core of LinkedIn's business and are designed to help businesses find and attract the right talent, as well as reach and engage with their target audience.",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What competition does Azure face?",
+    "source_page": 7,
+    "retrieved_pages": [
+      7,
+      9,
+      9,
+      14,
+      16
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Azure faces diverse competition from cloud service providers and open-source offerings. (page 7)",
+    "rag_score": 0.6666666666666666,
+    "baseline_answer": "Based on the most recent 10-K filing I have access to, Microsoft's Azure cloud computing platform faces significant competition from other major cloud providers. \n\nSome of the key competitors to Azure include Amazon Web Services (AWS), Google Cloud Platform (GCP), and IBM Cloud. These platforms offer a range of services, including infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS), which compete directly with Azure's offerings.\n\nAWS, in particular, is a major competitor to Azure, as it is the market leader in cloud infrastructure services, with a significant lead in terms of market share and revenue. GCP and IBM Cloud also pose a challenge to Azure, as they continue to invest in their cloud platforms and expand their offerings.\n\nMicrosoft also mentions in the 10-K filing that it faces competition from other companies that offer cloud-based services, such as Oracle, SAP, and Salesforce, among others.\n\nIt's worth noting that the competitive landscape for cloud computing is constantly evolving, with new players entering the market and existing players continuing to innovate and expand their offerings.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What does Microsoft do when it experiences a cybersecurity incident?",
+    "source_page": 30,
+    "retrieved_pages": [
+      30,
+      30,
+      29,
+      18,
+      18
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "When Microsoft experiences a cybersecurity incident, it utilizes its well-established incident response plans that operate both across the company and at the product and services level (page 30). \n\nIncidents are first triaged for severity, and then more deeply assessed to establish a plan of record and activate internal and external notification, disclosure, and communication plans, as applicable. Engineering and development resources are mobilized to resolve or remediate the incident. Following resolution, Microsoft conducts post-incident reviews for incidents that meet established criteria to capture learnings and strengthen its processes (page 30).",
+    "rag_score": 0.6666666666666666,
+    "baseline_answer": "I can try to provide some general information about Microsoft's approach to cybersecurity incidents based on publicly available information. However, please note that I may not have access to the company's most recent 10-K filing or the most up-to-date information.\n\nAccording to Microsoft's publicly available information, when the company experiences a cybersecurity incident, it has a comprehensive incident response plan in place. This plan involves several steps, including:\n\n1. Detection: Microsoft has a robust security monitoring system that detects potential security incidents in real-time.\n2. Initial Response: Once a potential incident is detected, Microsoft's security team springs into action to contain and assess the situation.\n3. Incident Response Team (IRT): Microsoft has a dedicated IRT that is responsible for responding to and managing cybersecurity incidents. The IRT is made up of experts from various departments, including security, engineering, and communications.\n4. Containment and Eradication: The IRT works to contain the incident and eradicate the threat, which may involve isolating affected systems, removing malware, or patching vulnerabilities.\n5. Recovery: Once the incident is contained and eradicated, the IRT works to restore normal operations and ensure that the affected systems are secure.\n6. Post-Incident Activities: After the incident is resolved, Microsoft conducts a thorough review of what happened, identifies areas for improvement, and implements changes to prevent similar incidents in the future.\n\nMicrosoft also has a number of policies and procedures in place to ensure that cybersecurity incidents are handled in a timely and effective manner. These include:\n\n* A 24/7 security operations center (SOC) that monitors the company's security posture and responds to incidents around the clock.\n* A comprehensive security awareness program that educates employees about cybersecurity best practices and the importance of reporting potential security incidents.\n* A robust incident response plan that is regularly tested and updated to ensure that it is effective and up-to-date.\n\nIt's worth noting that Microsoft's approach to cybersecurity incidents may have evolved since the company's",
+    "baseline_score": 0.3333333333333333
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "Where is Microsoft's corporate headquarters and how much space does it occupy?",
+    "source_page": 31,
+    "retrieved_pages": [
+      31,
+      13,
+      34,
+      20,
+      85
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Microsoft's corporate headquarters is located in Redmond, Washington. The company occupies approximately 14 million square feet of space in King County, Washington. This includes approximately 12 million square feet of owned space and approximately 2 million square feet of leased space. (page 31)",
+    "rag_score": 1.0,
+    "baseline_answer": "Microsoft's corporate headquarters is located in Redmond, Washington. The headquarters is situated on a 500-acre campus known as the Microsoft Redmond Campus.",
+    "baseline_score": 0.6666666666666666
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "What stock exchange and ticker symbol does Microsoft common stock trade under?",
+    "source_page": 32,
+    "retrieved_pages": [
+      1,
+      32,
+      106,
+      109,
+      111
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Microsoft common stock trades on the NASDAQ Stock Market under the symbol MSFT. (page 32)",
+    "rag_score": 1.0,
+    "baseline_answer": "Microsoft's common stock trades under the ticker symbol MSFT on the NASDAQ stock exchange.",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "How much did Microsoft's research and development expense increase in fiscal year 2026 compared to 2025, in dollars and percentage?",
+    "source_page": 40,
+    "retrieved_pages": [
+      40,
+      37,
+      34,
+      41,
+      38
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context [page 40], Microsoft's research and development expense increased by $3.1 billion or 9% in fiscal year 2026 compared to 2025.",
+    "rag_score": 0.3333333333333333,
+    "baseline_answer": "I can provide information on Microsoft's research and development expense based on publicly available data. However, I need to clarify that I don't have information on Microsoft's fiscal year 2026, as my knowledge cutoff is December 2023.\n\nBut I can provide information on Microsoft's research and development expense for fiscal years 2022 and 2023, which might give you an idea of the trend.\n\nAccording to Microsoft's 10-K filing for fiscal year 2022, the company's research and development expense was $15.97 billion.\n\nFor fiscal year 2023, the research and development expense was $17.61 billion.\n\nTo calculate the percentage increase, we can use the following formula:\n\nPercentage increase = ((New value - Old value) / Old value) * 100\n\nPlugging in the numbers, we get:\n\nPercentage increase = ((17.61 - 15.97) / 15.97) * 100 \u2248 10.3%\n\nSo, Microsoft's research and development expense increased by approximately $1.64 billion (10.3%) from fiscal year 2022 to 2023.\n\nPlease note that this is not the information you requested, as it's for fiscal years 2022 and 2023, not 2025 and 2026. I don't have information on Microsoft's fiscal year 2026, and my previous response was an attempt to provide a similar calculation based on available data.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was Microsoft's total other income (expense), net for fiscal year 2026?",
+    "source_page": 41,
+    "retrieved_pages": [
+      62,
+      41,
+      50,
+      37,
+      85
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$10,697 million (page 41)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that. However, I need to clarify that I'm a large language model, my training data only goes up to 2023, and I don't have access to future or real-time information.\n\nThat being said, I can try to find the information for Microsoft's fiscal year 2022 or 2023, which might be similar to what you're looking for.\n\nAccording to Microsoft's 10-K filing for fiscal year 2022, the total other income (expense), net was $1.3 billion. \n\nHowever, I couldn't find the information for fiscal year 2023. If you need the information for fiscal year 2026, I would recommend checking Microsoft's official website or the Securities and Exchange Commission (SEC) website for the most recent 10-K filing.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was Microsoft's net income for fiscal year 2026 according to the cash flow statement?",
+    "source_page": 53,
+    "retrieved_pages": [
+      34,
+      37,
+      75,
+      98,
+      60
+    ],
+    "retrieval_hit": false,
+    "rag_answer": "The information provided does not contain the cash flow statement for fiscal year 2026.",
+    "rag_score": 0.0,
+    "baseline_answer": "I can't provide information on Microsoft's 2026 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "How much did Microsoft pay in common stock cash dividends during fiscal year 2026?",
+    "source_page": 54,
+    "retrieved_pages": [
+      32,
+      80,
+      97,
+      43,
+      98
+    ],
+    "retrieval_hit": false,
+    "rag_answer": "The information provided does not contain the answer to how much Microsoft paid in common stock cash dividends during fiscal year 2026.",
+    "rag_score": 0.0,
+    "baseline_answer": "I can provide information on Microsoft's past financials, but I need to clarify that I don't have access to future or unpublished data, including information about fiscal year 2026.\n\nHowever, I can provide information on Microsoft's past dividend payments. Microsoft typically discloses its dividend payments in its annual 10-K filing. \n\nIf you're looking for information on Microsoft's fiscal year 2022, the company paid a total of $13.2 billion in common stock cash dividends.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What were total dividends declared by Microsoft's Board of Directors in fiscal years 2026 and 2025?",
+    "source_page": 45,
+    "retrieved_pages": [
+      45,
+      86,
+      32,
+      85,
+      98
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to page 45 of the context, the total dividends declared by Microsoft's Board of Directors in fiscal years 2026 and 2025 were $27.0 billion and $24.7 billion, respectively.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can provide information on Microsoft's past financials, but I must note that I do not have access to future or unpublished data, including information on fiscal years 2026.\n\nHowever, I can provide information on Microsoft's past financials, specifically the fiscal years 2022 and 2021, which are the most recent years for which I have data.\n\nAccording to Microsoft's 10-K filing for fiscal year 2022, the company's Board of Directors declared total dividends of $11.6 billion. \n\nFor fiscal year 2021, the company's Board of Directors declared total dividends of $10.6 billion.\n\nPlease note that I do not have information on fiscal years 2026 and 2025, as those years have not yet occurred. If you need information on those years, I recommend checking Microsoft's future 10-K filings or contacting the company directly for the most up-to-date information.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was the ending balance of common stock and paid-in capital at the end of fiscal year 2026?",
+    "source_page": 54,
+    "retrieved_pages": [
+      54,
+      82,
+      79,
+      76,
+      43
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$117,406 million (page 54)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that information. However, I need to clarify that I'm a large language model, I don't have direct access to the company's most recent 10-K filing. But I can try to provide you with the information based on my training data.\n\nTo provide you with the most accurate information, I would need to know the company's name. If you provide me with the company's name, I can try to find the information in my database.\n\nAssuming I have access to the company's 10-K filing, I can try to provide you with the information on the ending balance of common stock and paid-in capital at the end of fiscal year 2026.\n\nPlease note that the information I provide may not be up-to-date or accurate, and it's always best to verify the information with the company's official financial statements or a reliable financial source.\n\nIf you provide me with the company's name, I can try to help you with the information.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was Microsoft's total operating margin (operating income as a percentage of revenue) for fiscal year 2026, and how did it compare to fiscal year 2025?",
+    "source_page": 37,
+    "retrieved_pages": [
+      37,
+      38,
+      40,
+      40,
+      39
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "To find the total operating margin for fiscal year 2026, we need to divide the total operating income by the total revenue and then multiply by 100.\n\nTotal operating income for fiscal year 2026 is $155,237 million (page 37) and the total revenue is $331,839 million (page 37).\n\nTotal operating margin for fiscal year 2026 = (155,237 / 331,839) * 100 \u2248 46.8%\n\nFor fiscal year 2025, the total operating income is $128,528 million and the total revenue is $281,724 million.\n\nTotal operating margin for fiscal year 2025 = (128,528 / 281,724) * 100 \u2248 45.6%\n\nTherefore, Microsoft's total operating margin for fiscal year 2026 was approximately 46.8%, which is 1.2% higher than the 45.6% for fiscal year 2025.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can provide information on Microsoft's financials up to 2022, but I don't have data for 2026. However, I can give you information on Microsoft's total operating margin for fiscal year 2022 and compare it to 2021.\n\nFor fiscal year 2022, Microsoft's total operating margin was 46.9% (operating income as a percentage of revenue). This was a slight decrease from fiscal year 2021, where the total operating margin was 47.3%. \n\nIf you need information on fiscal year 2026, I would recommend checking Microsoft's official website or the Securities and Exchange Commission (SEC) website for their most recent 10-K filing.",
+    "baseline_score": 0.0
+  }
+]

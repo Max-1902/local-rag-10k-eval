@@ -1,0 +1,13 @@
+# local model weights and environment
+llama-env/
+llama-mlx/
+llama-mlx-8bit/
+llama-mlx-quantized/
+
+# rebuilt by ingest.py
+rag/store/
+
+__pycache__/
+.DS_Store
+.vscode/
+.claude/

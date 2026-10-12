@@ -1,0 +1,162 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What regulatory risks does BlackRock face in its China operations?",
+    "oracle_pages": [
+      18
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "BlackRock faces a number of regulatory risks in its China operations, including an evolving regulatory environment, frequent policy changes, and complex data security and data transfer regulations. (page 18)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "What is BlackRock's commission file number and when was its fiscal year 2025 annual report period?",
+    "oracle_pages": [
+      1
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "BlackRock's commission file number is 001-42297. \nThe fiscal year 2025 annual report period is not specified in the provided context.",
+    "oracle_score": 0.5,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What private markets data company did BlackRock acquire in March 2025, and for approximately how much?",
+    "oracle_pages": [
+      12
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "BlackRock acquired Preqin Holding Limited, a leading provider of private markets data, for approximately $3.2 billion in cash. \n[page 12]",
+    "oracle_score": 1.0,
+    "rag_score": 0.6666666666666666
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What does BlackRock say about being the target of cyber-attacks and impersonation of the company?",
+    "oracle_pages": [
+      25
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "BlackRock has been and continues to be the target of cyber-attacks, as well as the co-opting of its brand and fraudulent impersonations of the Company and members of management. [page 25]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What is the common ownership theory that BlackRock has faced commentary about, and which U.S. regulators have examined it?",
+    "oracle_pages": [
+      35
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "The common ownership theory states that minority ownership of multiple companies within a single industry by the same investor leads to anticompetitive effects. This theory purports to link aggregated equity positions in certain industries with higher consumer prices and executive compensation and lower wages and employment rates, among other things. \n\nThe U.S. regulators that have examined the common ownership theory are the FTC (Federal Trade Commission) and the DOJ (Department of Justice). In 2021, the FTC identified common ownership as a key enforcement area and passed a resolution empowering individual commissioners to investigate shareholder conduct in connection with common ownership. In 2023, the FTC and DOJ released new merger guidelines recognizing that common ownership may reduce competitive incentives.",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "How much AUM did BlackRock have at December 31, 2025, and approximately how many employees did it have across how many countries?",
+    "oracle_pages": [
+      40
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "BlackRock had $14.0 trillion of AUM at December 31, 2025. \nBlackRock had approximately 24,900 employees in more than 30 countries.",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What was BlackRock's total revenue for fiscal year 2025?",
+    "oracle_pages": [
+      4
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$24,216 (page 4)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was BlackRock's operating income for fiscal year 2025?",
+    "oracle_pages": [
+      4
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$7,045 (page 4)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was BlackRock's consolidated net income (before attribution to non-controlling interests) for fiscal year 2025, per the statement of comprehensive income?",
+    "oracle_pages": [
+      81
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$5,942 million (page 81).",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was BlackRock's net income attributable to BlackRock, Inc. for fiscal year 2025?",
+    "oracle_pages": [
+      4
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$7,736 million (page 4).",
+    "oracle_score": 0.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What was BlackRock's diluted earnings per common share for fiscal year 2025?",
+    "oracle_pages": [
+      4
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the context, BlackRock's diluted earnings per common share for fiscal year 2025 was $48.09 (page 4).",
+    "oracle_score": 0.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was BlackRock's employee compensation and benefits expense for fiscal year 2025?",
+    "oracle_pages": [
+      54
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$8,446 million (page 54)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was BlackRock's net margin \u2014 net income attributable to BlackRock, Inc. as a percentage of total revenue \u2014 for fiscal year 2025?",
+    "oracle_pages": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "oracle_coverage": NaN,
+    "oracle_answer": "To find BlackRock's net margin for fiscal year 2025, we need to calculate the net income attributable to BlackRock, Inc. as a percentage of total revenue.\n\nAccording to the context, BlackRock's net income attributable to BlackRock, Inc. for fiscal year 2025 was $5,553 million (GAAP) and $7,736 million (As Adjusted).\n\nThe total revenue for fiscal year 2025 was $24,216 million (GAAP) and $21,600 million (As Adjusted) is not available, however, we can use the As Adjusted total revenue for 2024 which is $24,216 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however, we can use the As Adjusted total revenue for 2024 which is $21,600 million is not available, however",
+    "oracle_score": 0.0,
+    "rag_score": 1.0
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What happened to the IWSS and C6ISR lines of business within RMS effective January 2026?",
+    "source_page": 5,
+    "retrieved_pages": [
+      5,
+      40,
+      4,
+      26,
+      39
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Effective January 2026, the IWSS and C6ISR lines of business within RMS were restructured and renamed Sensors, Effectors & Mission Systems (SEMS) and Mission Integrated Command and Control (MIC2). (page 5)",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot search for information about a private company. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "What is an Undefinitized Contract Action (UCA)?",
+    "source_page": 12,
+    "retrieved_pages": [
+      12,
+      8,
+      89,
+      12,
+      58
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "An Undefinitized Contract Action (UCA) is a contract action with the U.S. Government where we begin performing our obligations before the terms, specifications or price are finally agreed to between the parties. (page 12)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that.  Unfortunately, I do not have information about Undefinitized Contract Actions (UCAs) in the company's 10-K filing. However, I can try to provide some general information about UCAs.\n\nA Undefinitized Contract Action (UCA) is a type of contract action used by the U.S. Department of Defense (DoD) and other government agencies. It is a contract that has not been fully defined or priced, but has been authorized for a specific amount. This type of contract is often used when the scope of work is not fully understood or when the requirements are changing.\n\nIn a UCA, the contractor is authorized to proceed with the work, but the final cost and scope of the contract are not yet defined. The contractor is then required to submit periodic reports to the government, which detail the progress and costs incurred to date. These reports are used to refine the scope and cost of the contract, and to ensure that the contractor is meeting the requirements of the contract.\n\nUCAs are often used in situations where the requirements are complex or uncertain, or where the scope of work is expected to change over time. They are also used when the government wants to take advantage of a contractor's expertise and capabilities, but does not yet have a clear understanding of the requirements or the costs involved.\n\nI do not have information about the company's most recent 10-K filing, but I can suggest that you check the company's website or contact their investor relations department to see if they have any information about UCAs in their 10-K filing.",
+    "baseline_score": 0.3333333333333333
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What does Lockheed Martin say about pension funding requirements and costs?",
+    "source_page": [
+      20,
+      47,
+      85
+    ],
+    "retrieved_pages": [
+      47,
+      52,
+      85,
+      100,
+      96
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context, Lockheed Martin made cash contributions to their qualified defined benefit pension plans of $860 million in 2025. \n\nAdditionally, the required funding of their qualified defined benefit pension plans is determined in accordance with the Employee Retirement Income Security Act of 1974 (ERISA), as amended, and in a manner consistent with CAS and Internal Revenue Code rules. \n\nThere are no expected required contributions to their qualified defined benefit pension plans in 2026.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to provide information based on Lockheed Martin's most recent 10-K filing. \n\nLockheed Martin's 2022 10-K filing (the most recent one I have access to) reports that the company has a defined benefit pension plan for its U.S. employees. \n\nAccording to the filing, the pension plan's funded status as of September 30, 2022, was 94.5%. This means that the plan's assets were 94.5% of the actuarially determined benefit obligations.\n\nRegarding pension funding requirements and costs, Lockheed Martin reports that the company is required to make annual contributions to the plan to meet the minimum funding requirements set by the Pension Protection Act of 2006. \n\nThe 2022 10-K filing states that the company's annual pension funding requirement for 2022 was $1.2 billion. However, the actual contributions made to the plan were $1.1 billion. This means that Lockheed Martin made a pension contribution of $100 million less than the required amount.\n\nThe filing also reports that the company's pension expense for 2022 was $1.2 billion. This expense is recorded in the company's income statement as a non-operating expense.\n\nPlease note that these figures and information are based on the 2022 10-K filing and may not reflect the current situation.",
+    "baseline_score": 0.6666666666666666
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What global security conflicts or tensions does Lockheed Martin mention?",
+    "source_page": 30,
+    "retrieved_pages": [
+      3,
+      30,
+      29,
+      15,
+      31
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Lockheed Martin mentions the following global security conflicts or tensions on page 30: \n\n1. Conflicts or tensions in Europe\n2. Conflicts or tensions in the Middle East\n3. Conflicts or tensions in the Pacific region\n4. The invasion of Ukraine by Russia \n5. The conflict in the Middle East",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to find information on Lockheed Martin's most recent 10-K filing. \n\nLockheed Martin's 2022 10-K filing (the most recent one I have access to) mentions several global security conflicts and tensions. \n\n1. **Russia-Ukraine Conflict**: The filing notes that the ongoing conflict between Russia and Ukraine has led to increased military spending and a heightened sense of security in Europe, which could benefit Lockheed Martin's business.\n\n2. **China's Military Modernization**: Lockheed Martin's 10-K highlights China's continued military modernization, including the development of advanced missile systems and cyber capabilities. This could lead to increased demand for Lockheed Martin's products and services.\n\n3. **Middle East Tensions**: The filing notes that ongoing tensions in the Middle East, including the conflict in Yemen and the ongoing presence of U.S. forces in the region, could lead to increased demand for Lockheed Martin's products and services.\n\n4. **Cybersecurity Threats**: Lockheed Martin's 10-K also highlights the growing threat of cyber attacks and the need for robust cybersecurity measures to protect against these threats.\n\n5. **Global Health Security**: The filing notes that the COVID-19 pandemic has highlighted the importance of global health security and the need for robust public health systems to respond to emerging health threats.\n\nPlease note that these are just some of the global security conflicts and tensions mentioned in Lockheed Martin's 2022 10-K filing, and the company's views on these issues may have changed since then.",
+    "baseline_score": 0.6666666666666666
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What revenue recognition method does Lockheed Martin use for its long-term fixed price contracts?",
+    "source_page": 51,
+    "retrieved_pages": [
+      57,
+      51,
+      45,
+      58,
+      37
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Lockheed Martin uses the percentage-of-completion cost-to-cost method for its long-term fixed price contracts (page 51).",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that. \n\nLockheed Martin, a major defense contractor, uses the percentage-of-completion (POC) method for revenue recognition on long-term fixed-price contracts. This method is a type of cost-to-cost method, where revenue is recognized based on the proportion of contract costs incurred to date relative to the total estimated contract costs.\n\nHowever, it's worth noting that the POC method is often used in conjunction with the \"cost-to-cost\" method, which is a variation of the POC method. In this method, revenue is recognized based on the actual costs incurred to date, rather than the estimated costs.\n\nLockheed Martin's 10-K filing may provide more detailed information on their revenue recognition policies and procedures.",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "What does Lockheed Martin say about its exposure to litigation and environmental proceedings in Item 3 Legal Proceedings?",
+    "source_page": 25,
+    "retrieved_pages": [
+      25,
+      9,
+      2,
+      90,
+      22
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to page 25 of the context, Lockheed Martin states that they are a party to litigation and other proceedings that arise in the ordinary course of their business, including matters arising under provisions relating to the protection of the environment. They also mention that they are subject to contingencies related to certain businesses they previously owned. \n\nAdditionally, on page 22, it is mentioned that they cannot predict the outcome of litigation and other contingencies with certainty.",
+    "rag_score": 0.3333333333333333,
+    "baseline_answer": "I can try to provide information based on publicly available data. However, please note that my knowledge cutoff is December 2023, and I may not have the most up-to-date information.\n\nLockheed Martin's most recent 10-K filing (for the fiscal year ended December 2022) is available on the Securities and Exchange Commission (SEC) website. \n\nAccording to Item 3 Legal Proceedings in Lockheed Martin's 10-K filing for 2022, the company mentions that it is involved in various lawsuits and claims, including:\n\n1. Government contract disputes: Lockheed Martin is involved in disputes with the U.S. government over contract terms, pricing, and other matters.\n2. Product liability claims: The company faces claims related to the safety and performance of its products, including aircraft and defense systems.\n3. Environmental claims: Lockheed Martin is involved in various environmental claims, including those related to the cleanup of contaminated sites and the disposal of hazardous materials.\n4. Intellectual property disputes: The company is involved in disputes over patents, trademarks, and copyrights related to its products and technologies.\n\nRegarding environmental proceedings, Lockheed Martin mentions that it is involved in various environmental claims and proceedings, including:\n\n1. Cleanup of contaminated sites: The company is responsible for the cleanup of contaminated sites related to its past operations, including the disposal of hazardous materials.\n2. Environmental permits and compliance: Lockheed Martin is subject to various environmental regulations and permits, and it is involved in proceedings related to compliance with these requirements.\n\nPlease note that this information is based on publicly available data and may not reflect the company's current situation or any updates that may have occurred after my knowledge cutoff.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What were Lockheed Martin's total sales for fiscal year 2025?",
+    "source_page": 52,
+    "retrieved_pages": [
+      99,
+      99,
+      99,
+      52,
+      28
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the provided context on page 52, Lockheed Martin's total sales for fiscal year 2025 were $75,048 million.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with information about Lockheed Martin's 2025 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What were Lockheed Martin's net earnings for fiscal year 2025?",
+    "source_page": [
+      52,
+      53,
+      55
+    ],
+    "retrieved_pages": [
+      98,
+      55,
+      99,
+      99,
+      99
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to page 55 of the context, Lockheed Martin Corporation's net earnings for fiscal year 2025 were $5,017 million.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with information about Lockheed Martin's 2025 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's revenue from Products for fiscal year 2025?",
+    "source_page": 52,
+    "retrieved_pages": [
+      99,
+      99,
+      99,
+      52,
+      98
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the Consolidated Statements of Earnings (page 52), Lockheed Martin's revenue from Products for fiscal year 2025 was $62,654 million.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with information about Lockheed Martin's revenue for fiscal year 2025. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's cash and cash equivalents balance at the end of fiscal year 2025?",
+    "source_page": 54,
+    "retrieved_pages": [
+      55,
+      41,
+      50,
+      97,
+      54
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to page 54 of the provided context, Lockheed Martin's cash and cash equivalents balance at the end of fiscal year 2025 was $4.1 billion.",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot provide you with Lockheed Martin's most recent 10-K filing. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's stock-based compensation expense in the cash flow statement for fiscal year 2025?",
+    "source_page": 55,
+    "retrieved_pages": [
+      96,
+      126,
+      99,
+      96,
+      99
+    ],
+    "retrieval_hit": false,
+    "rag_answer": "The information required to answer your question is not provided in the given context.",
+    "rag_score": 0.0,
+    "baseline_answer": "I cannot provide you with information about Lockheed Martin's 2025 10-K filing. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's goodwill balance at the end of fiscal year 2025?",
+    "source_page": 54,
+    "retrieved_pages": [
+      47,
+      50,
+      100,
+      99,
+      54
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$11.3 billion (page 47).",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that information. However, I need to clarify that I'm a large language model, my training data only goes up to 2023, and I don't have access to real-time information or future data.\n\nThat being said, I can try to find the information for you from the publicly available data up to 2023. If you're looking for the goodwill balance at the end of fiscal year 2025, I won't be able to provide that information.\n\nHowever, I can suggest that you check Lockheed Martin's most recent 10-K filing, which is usually available on the SEC's EDGAR database or on the company's website. The 10-K filing for 2023 is available, and it might have the information you're looking for.\n\nIf you'd like, I can try to find the goodwill balance for you from the 2023 10-K filing. Please let me know if you'd like me to proceed.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was Lockheed Martin's net profit margin (net earnings as a percentage of total sales) for fiscal year 2025?",
+    "source_page": 52,
+    "retrieved_pages": [
+      52,
+      40,
+      38,
+      60,
+      53
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "To calculate the net profit margin, we need to divide the net earnings by the total sales and then multiply by 100.\n\nNet earnings for 2025: $5,017 million (from page 52)\nTotal sales for 2025: $75,048 million (from page 52)\n\nNet profit margin = (Net earnings / Total sales) * 100\n= ($5,017 / $75,048) * 100\n\u2248 6.68%\n\nSo, Lockheed Martin's net profit margin for fiscal year 2025 was approximately 6.68%.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with information about Lockheed Martin's 2025 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  }
+]

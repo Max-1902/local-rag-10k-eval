@@ -1,0 +1,159 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What AI-related products and services is Tesla focused on bringing into the real world?",
+    "oracle_pages": [
+      5
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Tesla is focused on bringing artificial intelligence (\"AI\") into the real world, through products and services like Full Self-Driving (\"FSD\") and Robotaxi, as well as working to develop and commercialize AI robots (\"Bots\") (including Optimus). [page 5]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "How does Tesla typically achieve vehicle sales without relying on traditional advertising?",
+    "oracle_pages": [
+      8
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Historically, we have been able to achieve sales without relying on traditional advertising and at relatively low marketing costs. We continue to monitor our public narrative and brand, and tailor our marketing efforts accordingly, including through investments in customer education and advertising as necessary. [page 8]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "Who oversees Tesla's human capital management strategy?",
+    "oracle_pages": [
+      15
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Our Compensation Committee generally oversees our human capital management strategy [page 15].",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What does Tesla's ability to make scheduled debt payments depend on?",
+    "oracle_pages": [
+      25
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Tesla's ability to make scheduled debt payments depends on their future performance, which is subject to economic, financial, competitive and other factors beyond their control. (page 25)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What act governs the forward-looking statements in Tesla's 10-K?",
+    "oracle_pages": [
+      4
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "The Private Securities Litigation Reform Act of 1995 governs the forward-looking statements in the provided context. [page 4]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "In which U.S. states and foreign countries does Tesla have manufacturing facilities, and what new facility began operations there in January 2026?",
+    "oracle_pages": [
+      10,
+      10
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Tesla has manufacturing facilities in the U.S. states of California, New York, Texas, and Nevada. Internationally, they have facilities in China and Germany. \n\nA new facility, an in-house lithium refinery, began operations in Texas in January 2026.",
+    "oracle_score": 0.3333333333333333,
+    "rag_score": 0.3333333333333333
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What were Tesla's total revenues for fiscal year 2025?",
+    "oracle_pages": [
+      53
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Tesla's total revenues for fiscal year 2025 were $94,827 million. [page 53]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was Tesla's net income for fiscal year 2025 according to the statement of comprehensive income?",
+    "oracle_pages": [
+      54
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$3,855 (page 54)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was Tesla's automotive sales revenue for fiscal year 2025?",
+    "oracle_pages": [
+      53
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$65,821 million. \n[page 53]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was Tesla's stock-based compensation expense in the cash flow statement for fiscal year 2025?",
+    "oracle_pages": [
+      56
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$2,825 million (page 56)",
+    "oracle_score": 1.0,
+    "rag_score": 0.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What was Tesla's net income attributable to common stockholders for fiscal year 2025?",
+    "oracle_pages": [
+      65
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$3,794 million (page 65).",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was Tesla's energy generation and storage revenue for fiscal year 2025?",
+    "oracle_pages": [
+      53
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the provided context, Tesla's energy generation and storage revenue for fiscal year 2025 was $12,771 million. \n\n[page 53]",
+    "oracle_score": 1.0,
+    "rag_score": 0.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What percentage of Tesla's total revenues for fiscal year 2025 came from energy generation and storage?",
+    "oracle_pages": [
+      53
+    ],
+    "oracle_coverage": NaN,
+    "oracle_answer": "To find the percentage, we need to divide the energy generation and storage revenues by the total revenues and then multiply by 100.\n\nEnergy generation and storage revenues for 2025: $12,771 million\nTotal revenues for 2025: $94,827 million\n\nPercentage = (12,771 / 94,827) * 100 \u2248 13.5%\n\nSo, approximately 13.5% of Tesla's total revenues for fiscal year 2025 came from energy generation and storage. (page 53)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  }
+]

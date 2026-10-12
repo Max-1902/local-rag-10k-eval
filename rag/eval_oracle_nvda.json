@@ -1,0 +1,158 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What export restrictions did the U.S. government announce in August 2022 affecting NVIDIA?",
+    "oracle_pages": [
+      10
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "The U.S. government announced export restrictions and export licensing requirements targeting China's semiconductor and supercomputing industries in August 2022. These restrictions impacted exports of certain chips, as well as software, hardware, equipment, and technology used to develop, produce, and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact NVIDIA's A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits. (page 10)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "Where is NVIDIA headquartered and when was it incorporated?",
+    "oracle_pages": [
+      56
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "NVIDIA is headquartered in Santa Clara, California. It was incorporated in California in April 1993 (page 56).",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What cybersecurity risks does NVIDIA face related to employees and contractors?",
+    "oracle_pages": [
+      20
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "NVIDIA may face cybersecurity threats due to error or intentional misconduct by employees, contractors or other third-party service providers. (page 20)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What did NVIDIA acquire or license from Groq in December 2025?",
+    "oracle_pages": [
+      61
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "NVIDIA acquired or licensed Groq's language processing unit technology and hired certain Groq employees in December 2025 [page 61].",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What data privacy and security obligations does NVIDIA say it is subject to?",
+    "oracle_pages": [
+      30
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "NVIDIA is subject to stringent and changing data privacy and security laws, rules, regulations, and other obligations. (page 30)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "What risk does NVIDIA describe regarding long manufacturing lead times and customer demand estimation?",
+    "oracle_pages": [
+      15
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "NVIDIA describes the risk of mismatches between supply and demand due to long manufacturing lead times and uncertain supply and capacity availability, combined with a failure to estimate customer demand accurately. (page 15)",
+    "oracle_score": 0.6666666666666666,
+    "rag_score": 0.6666666666666666
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What was NVIDIA's total revenue for fiscal year 2026 (year ended January 25, 2026)?",
+    "oracle_pages": [
+      51
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$215,938 (page 51)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was NVIDIA's research and development expense for fiscal year 2026?",
+    "oracle_pages": [
+      41
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$18,497 million (page 42)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was NVIDIA's net income for fiscal year 2026 according to the statement of comprehensive income?",
+    "oracle_pages": [
+      52
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$120,067 million (page 52)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was NVIDIA's stock-based compensation expense in the cash flow statement for fiscal year 2026?",
+    "oracle_pages": [
+      55
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the context [page 55], NVIDIA's stock-based compensation expense in the cash flow statement for fiscal year 2026 was $6,386 million.",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "How much revenue did NVIDIA recognize in fiscal year 2026 that was included in the prior year's deferred revenue balance?",
+    "oracle_pages": [
+      69
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "NVIDIA recognized revenue of $974 million in fiscal year 2026 that was included in the prior year end deferred revenue balance. (page 69)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was NVIDIA's gross profit for fiscal year 2026?",
+    "oracle_pages": [
+      51
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "NVIDIA's gross profit for fiscal year 2026 was $153,463 million. \n[page 51]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was NVIDIA's net profit margin (net income as a percentage of revenue) for fiscal year 2026?",
+    "oracle_pages": [
+      51
+    ],
+    "oracle_coverage": NaN,
+    "oracle_answer": "To find NVIDIA's net profit margin for fiscal year 2026, we need to divide the net income by the revenue and then multiply by 100.\n\nNet income for 2026: $120,067 (page 51)\nRevenue for 2026: $215,938 (page 51)\n\nNet profit margin = (Net income / Revenue) * 100\n= ($120,067 / $215,938) * 100\n\u2248 55.69%\n\nSo, NVIDIA's net profit margin for fiscal year 2026 was approximately 55.69%.",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  }
+]

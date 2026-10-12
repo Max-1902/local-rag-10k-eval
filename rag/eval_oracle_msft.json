@@ -1,0 +1,159 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What sustainability goals did Microsoft announce in 2020?",
+    "oracle_pages": [
+      5
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Microsoft announced goals to become a carbon negative, water positive, and zero waste company by 2030. [page 5]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "What does LinkedIn's Talent Solutions and Marketing Solutions business do?",
+    "oracle_pages": [
+      6
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "LinkedIn's Talent Solutions and Marketing Solutions business offers AI-enabled insights and productivity. It also provides value for members and customers. Additionally, Talent Solutions and Sales Solutions offerings are subscriptions that are mainly affected by demand from enterprises and professionals. Marketing Solutions is driven by the quality of the sponsored content delivered to members to drive engagement. \n\n(page 6)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What competition does Azure face?",
+    "oracle_pages": [
+      7
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Azure faces diverse competition from cloud service providers and open-source offerings. (page 7)",
+    "oracle_score": 0.6666666666666666,
+    "rag_score": 0.6666666666666666
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What does Microsoft do when it experiences a cybersecurity incident?",
+    "oracle_pages": [
+      30
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Microsoft does not explicitly appear in the provided context. However, based on the information given, it can be inferred that the company (which is not explicitly stated, but likely Microsoft) utilizes its well-established incident response plans to address cybersecurity incidents. \n\n(page 30)",
+    "oracle_score": 0.3333333333333333,
+    "rag_score": 0.6666666666666666
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "Where is Microsoft's corporate headquarters and how much space does it occupy?",
+    "oracle_pages": [
+      31
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Microsoft's corporate headquarters is located in Redmond, Washington. It occupies approximately 14 million square feet of space. \n\n[page 31]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "What stock exchange and ticker symbol does Microsoft common stock trade under?",
+    "oracle_pages": [
+      32
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Microsoft common stock trades on the NASDAQ Stock Market under the symbol MSFT. (page 32)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "How much did Microsoft's research and development expense increase in fiscal year 2026 compared to 2025, in dollars and percentage?",
+    "oracle_pages": [
+      40
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the context [page 40], Microsoft's research and development expense increased by $3.1 billion or 9% in fiscal year 2026 compared to 2025.",
+    "oracle_score": 0.3333333333333333,
+    "rag_score": 0.3333333333333333
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was Microsoft's total other income (expense), net for fiscal year 2026?",
+    "oracle_pages": [
+      41
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$10,697 million (page 41)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was Microsoft's net income for fiscal year 2026 according to the cash flow statement?",
+    "oracle_pages": [
+      53
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$133,749 million (page 53).",
+    "oracle_score": 1.0,
+    "rag_score": 0.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "How much did Microsoft pay in common stock cash dividends during fiscal year 2026?",
+    "oracle_pages": [
+      54
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$27,034 million (page 54)",
+    "oracle_score": 1.0,
+    "rag_score": 0.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What were total dividends declared by Microsoft's Board of Directors in fiscal years 2026 and 2025?",
+    "oracle_pages": [
+      45
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$27.0 billion (2026) and $24.7 billion (2025). [page 45]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was the ending balance of common stock and paid-in capital at the end of fiscal year 2026?",
+    "oracle_pages": [
+      54
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$117,406 (page 54)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was Microsoft's total operating margin (operating income as a percentage of revenue) for fiscal year 2026, and how did it compare to fiscal year 2025?",
+    "oracle_pages": [
+      37,
+      37
+    ],
+    "oracle_coverage": NaN,
+    "oracle_answer": "To find the total operating margin for fiscal year 2026, we need to divide the operating income by the revenue and then multiply by 100.\n\nOperating income for fiscal year 2026: $155,237 million\nRevenue for fiscal year 2026: $331,839 million\n\nTotal operating margin for fiscal year 2026: (155,237 / 331,839) * 100 \u2248 46.76%\n\nOperating income for fiscal year 2025: $128,528 million\nRevenue for fiscal year 2025: $281,724 million\n\nTotal operating margin for fiscal year 2025: (128,528 / 281,724) * 100 \u2248 45.59%\n\nThe total operating margin for fiscal year 2026 was approximately 46.76%, which is an increase of about 1.17 percentage points compared to fiscal year 2025.",
+    "oracle_score": 0.0,
+    "rag_score": 1.0
+  }
+]

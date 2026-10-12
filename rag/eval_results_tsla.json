@@ -1,0 +1,245 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What AI-related products and services is Tesla focused on bringing into the real world?",
+    "source_page": 5,
+    "retrieved_pages": [
+      5,
+      57,
+      6,
+      7,
+      35
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Tesla is focused on bringing artificial intelligence (\u201cAI\u201d) into the real world, through products and services like Full Self-Driving (\u201cFSD\u201d) (Supervised) and Robotaxi, as well as working to develop and commercialize AI robots (\u201cBots\u201d) (including Optimus) [page 5].",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that.  Unfortunately, I do not have access to real-time data. However, based on publicly available information, Tesla's most recent 10-K filing (for the year 2022) highlights the company's focus on AI-related products and services through its Autopilot and Full Self-Driving (FSD) technologies.\n\nTesla's Autopilot system is a suite of advanced driver-assistance systems (ADAS) that enables semi-autonomous driving capabilities, such as lane-keeping, adaptive cruise control, and automatic emergency braking. The company is continually improving and expanding the capabilities of Autopilot through software updates.\n\nThe Full Self-Driving (FSD) technology is a more advanced version of Autopilot that aims to enable fully autonomous driving capabilities. FSD uses a combination of sensors, including cameras, radar, and ultrasonic sensors, to detect and respond to the environment. Tesla is working to improve the accuracy and reliability of FSD through machine learning and AI algorithms.\n\nAdditionally, Tesla's AI-related products and services also include:\n\n1. Tesla Vision: A camera-based system that enables advanced driver-assistance systems and semi-autonomous driving capabilities.\n2. Tesla's AI-powered navigation system: Which enables the company's vehicles to navigate complex routes and avoid traffic congestion.\n3. Tesla's AI-powered energy management system: Which optimizes energy consumption and generation for Tesla's energy products, such as the Powerwall and Solar Roof.\n\nPlease note that this information is based on publicly available data and may not reflect the company's current or future plans.",
+    "baseline_score": 0.3333333333333333
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "How does Tesla typically achieve vehicle sales without relying on traditional advertising?",
+    "source_page": 8,
+    "retrieved_pages": [
+      8,
+      9,
+      18,
+      8,
+      20
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Historically, we have been able to achieve sales without relying on traditional advertising and at relatively low marketing costs. We continue to monitor our public narrative and brand, and tailor our marketing efforts accordingly, including through investments in customer education and advertising as necessary. (page 8)",
+    "rag_score": 1.0,
+    "baseline_answer": "Based on Tesla's most recent 10-K filing, it appears that the company has been successful in achieving vehicle sales without relying heavily on traditional advertising methods. \n\nOne key factor is the company's focus on direct-to-consumer sales, where customers purchase vehicles directly from Tesla's stores or website, rather than through a traditional dealership network. This approach allows Tesla to maintain a strong brand image and build a direct relationship with customers.\n\nAdditionally, Tesla has been leveraging various digital channels to reach potential customers, such as:\n\n1. Social media: Tesla has a strong presence on social media platforms like Twitter, Instagram, and Facebook, where it engages with customers, shares updates, and promotes its products.\n2. Email marketing: The company uses email campaigns to keep customers informed about new products, features, and promotions.\n3. Online content: Tesla produces high-quality content, such as videos, blog posts, and product reviews, to educate and engage customers about its products.\n4. Influencer marketing: Tesla partners with social media influencers and content creators to promote its brand and products to a wider audience.\n5. Referral programs: The company has implemented referral programs that incentivize existing customers to refer friends and family to purchase Tesla vehicles.\n6. Brand ambassadors: Tesla has appointed brand ambassadors, such as celebrities and thought leaders, to promote its brand and products.\n7. Event marketing: Tesla hosts events, such as test drive events and product launches, to create buzz and generate interest in its products.\n\nBy focusing on these digital channels and direct-to-consumer sales, Tesla has been able to build a strong brand image and achieve vehicle sales without relying heavily on traditional advertising methods.\n\nPlease note that this information is based on publicly available data and may not reflect the company's current strategies or performance.",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "Who oversees Tesla's human capital management strategy?",
+    "source_page": 15,
+    "retrieved_pages": [
+      15,
+      14,
+      22,
+      112,
+      36
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Our Compensation Committee generally oversees Tesla's human capital management strategy. (page 15)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to find that information for you. \n\nAccording to Tesla's most recent 10-K filing (fiscal year 2022), the company's human capital management strategy is overseen by the People and Training department, which is led by a Vice President of People and Training. However, the 10-K filing does not specifically mention the name of the person who oversees the human capital management strategy.\n\nBut, according to Tesla's 2022 proxy statement (definitive proxy statement), the company's People and Training department is led by Valerie Capers, who is the Vice President of People and Training.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What does Tesla's ability to make scheduled debt payments depend on?",
+    "source_page": 25,
+    "retrieved_pages": [
+      16,
+      25,
+      96,
+      21,
+      56
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Tesla's ability to make scheduled payments of the principal and interest on its indebtedness when due, or to refinance its indebtedness as it may need or desire, depends on its future performance, which is subject to economic, financial, competitive, and other factors beyond its control. (page 25)",
+    "rag_score": 1.0,
+    "baseline_answer": "Based on Tesla's most recent 10-K filing, their ability to make scheduled debt payments depends on several factors. \n\nFirst, it depends on their future operating performance, which includes their ability to generate cash from sales of their electric vehicles and other products, as well as their ability to manage their costs and maintain their market share.\n\nSecond, it depends on their ability to access capital markets to refinance or restructure their debt, if necessary. This includes their ability to issue new debt securities, such as bonds, or to obtain new credit facilities.\n\nThird, it depends on their compliance with the covenants and other terms of their debt agreements. These covenants may include requirements related to their minimum cash balance, maximum leverage ratio, and other financial metrics.\n\nLastly, it depends on the overall economic and industry conditions, including the demand for electric vehicles and the competitive landscape in the automotive industry.\n\nAccording to the 10-K filing, Tesla's ability to make scheduled debt payments is subject to certain risks and uncertainties, including their ability to maintain or increase their market share, their ability to manage their costs and maintain their gross margin, and their ability to access capital markets to refinance or restructure their debt.\n\nIt's worth noting that Tesla's debt agreements contain various covenants and other terms that may limit their ability to make scheduled debt payments if they fail to meet certain financial metrics or other requirements.",
+    "baseline_score": 0.6666666666666666
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What act governs the forward-looking statements in Tesla's 10-K?",
+    "source_page": 4,
+    "retrieved_pages": [
+      4,
+      139,
+      1,
+      138,
+      15
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "The Private Securities Litigation Reform Act of 1995 governs the forward-looking statements in Tesla's 10-K. (page 4)",
+    "rag_score": 1.0,
+    "baseline_answer": "The act governing forward-looking statements in Tesla's 10-K filing is the Securities Exchange Act of 1934, specifically Section 21F, also known as the \"Management's Discussion and Analysis of Financial Condition and Results of Operations\" (MD&A) section, and the Private Securities Litigation Reform Act of 1995 (PSLRA).",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "In which U.S. states and foreign countries does Tesla have manufacturing facilities, and what new facility began operations there in January 2026?",
+    "source_page": 10,
+    "retrieved_pages": [
+      10,
+      7,
+      94,
+      31,
+      19
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "Tesla has manufacturing facilities in the U.S. states of California, New York, Texas, and Nevada. Internationally, they have facilities in China and Germany. \n\nA new residential retrofit solar panel began manufacturing in 2025 and began initial customer deliveries in January 2026.",
+    "rag_score": 0.3333333333333333,
+    "baseline_answer": "I can provide information on Tesla's manufacturing facilities based on publicly available data up to my knowledge cutoff in 2023.\n\nAs of my knowledge cutoff, Tesla has manufacturing facilities in the following U.S. states and foreign countries:\n\n1. U.S. states: \n   - California (Fremont)\n   - Texas (Austin)\n   - New York (Buffalo, through a partnership with the state and local governments)\n   - Nevada (Reno, through a partnership with the state and local governments)\n   - and a factory in Sparks, Nevada, which is under construction.\n\n2. Foreign countries:\n   - China (Shanghai)\n   - Germany (Gigafactory Berlin-Brandenburg)\n   - and a factory in Gr\u00fcnheide, Germany, which is under construction.\n\nHowever, I do not have information on a new facility that began operations in January 2026.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What were Tesla's total revenues for fiscal year 2025?",
+    "source_page": 53,
+    "retrieved_pages": [
+      53,
+      41,
+      97,
+      34,
+      96
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$94,827 million (page 53)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide information on Tesla's 2025 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was Tesla's net income for fiscal year 2025 according to the statement of comprehensive income?",
+    "source_page": [
+      54,
+      56
+    ],
+    "retrieved_pages": [
+      54,
+      55,
+      90,
+      43,
+      88
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$3,855 million (page 54)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with information about Tesla's 2025 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was Tesla's automotive sales revenue for fiscal year 2025?",
+    "source_page": [
+      53,
+      58
+    ],
+    "retrieved_pages": [
+      59,
+      40,
+      41,
+      58,
+      42
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context, Tesla's automotive sales revenue for the fiscal year 2025 was $65,821 million. (page 58)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with information on Tesla's 2025 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was Tesla's stock-based compensation expense in the cash flow statement for fiscal year 2025?",
+    "source_page": 56,
+    "retrieved_pages": [
+      88,
+      87,
+      84,
+      86,
+      86
+    ],
+    "retrieval_hit": false,
+    "rag_answer": "The context does not contain the information about Tesla's stock-based compensation expense in the cash flow statement for fiscal year 2025.",
+    "rag_score": 0.0,
+    "baseline_answer": "I can't provide you with information about Tesla's 2025 10-K filing. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What was Tesla's net income attributable to common stockholders for fiscal year 2025?",
+    "source_page": 65,
+    "retrieved_pages": [
+      54,
+      53,
+      34,
+      55,
+      65
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$3,794 million (page 34)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can provide information on Tesla's financials up to 2022, but I do not have access to future or unpublished data. However, I can suggest some possible sources where you may be able to find the information you're looking for.\n\nTesla's most recent 10-K filing, which covers the fiscal year 2022, reported a net income of $3.69 billion. However, I do not have information on the fiscal year 2025.\n\nIf you're looking for the most recent information, I recommend checking Tesla's official website or the Securities and Exchange Commission (SEC) website for the latest 10-K filing. You can also check reputable financial news sources or websites that provide up-to-date information on publicly traded companies.\n\nPlease note that my knowledge cutoff is December 2023, and I may not have the most current information.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was Tesla's energy generation and storage revenue for fiscal year 2025?",
+    "source_page": [
+      53,
+      97
+    ],
+    "retrieved_pages": [
+      41,
+      42,
+      42,
+      97,
+      7
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the provided context, Tesla's energy generation and storage revenue for the year ended December 31, 2025, increased $2.69 billion, or 27%, as compared to the year ended December 31, 2024. However, the exact revenue amount is not explicitly stated in the given context.",
+    "rag_score": 0.0,
+    "baseline_answer": "I can't provide you with information about Tesla's 2025 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What percentage of Tesla's total revenues for fiscal year 2025 came from energy generation and storage?",
+    "source_page": 53,
+    "retrieved_pages": [
+      41,
+      42,
+      97,
+      53,
+      42
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "To find the percentage of Tesla's total revenues for fiscal year 2025 that came from energy generation and storage, we need to calculate the revenue from energy generation and storage as a percentage of total revenues.\n\nEnergy generation and storage revenue for fiscal year 2025 was $12,771 million (page 53).\n\nTotal revenues for fiscal year 2025 were $94,827 million (page 53).\n\nNow, let's calculate the percentage:\n\n($12,771 million / $94,827 million) * 100 = 13.5%\n\nSo, 13.5% of Tesla's total revenues for fiscal year 2025 came from energy generation and storage.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that information. However, I need to clarify that I'm a large language model, my training data only goes up to 2023, and I don't have access to real-time information or future data.\n\nThat being said, I can try to provide some context and information on Tesla's revenue breakdown for previous years. According to Tesla's 2022 10-K filing, the company reported the following revenue breakdown for fiscal year 2022:\n\n- Automotive: 84.6% of total revenues\n- Energy Generation and Storage: 15.4% of total revenues\n\nHowever, I don't have information on Tesla's fiscal year 2025 revenue breakdown. If you need the most up-to-date information, I recommend checking Tesla's latest 10-K filing or contacting the company directly for the most accurate and current data.",
+    "baseline_score": 0.0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What export restrictions did the U.S. government announce in August 2022 affecting NVIDIA?",
+    "source_page": 10,
+    "retrieved_pages": [
+      10,
+      26,
+      28,
+      71,
+      10
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "The U.S. government announced export restrictions and export licensing requirements targeting China's semiconductor and supercomputing industries in August 2022. These restrictions impacted exports of certain chips, as well as software, hardware, equipment, and technology used to develop, produce, and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact NVIDIA's A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits. (page 10)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to find that information for you. \n\nAfter checking, I found that in August 2022, the U.S. government announced export restrictions under the Export Control Reform Act (ECRA) and the International Traffic in Arms Regulations (ITAR) affecting NVIDIA and other U.S. semiconductor companies. These restrictions were part of the U.S. government's efforts to limit the sale of advanced technology to China.\n\nThe restrictions specifically targeted the sale of certain high-performance computing and graphics processing units (GPUs) to China, including those designed for artificial intelligence and machine learning applications. This move was aimed at preventing the Chinese government from acquiring sensitive U.S. technology that could be used for military or other malicious purposes.\n\nThese export restrictions likely had a significant impact on NVIDIA's business, particularly in the Chinese market, as the company's GPUs are widely used in AI and machine learning applications.",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "Where is NVIDIA headquartered and when was it incorporated?",
+    "source_page": 56,
+    "retrieved_pages": [
+      36,
+      36,
+      5,
+      56,
+      4
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "NVIDIA is headquartered in Santa Clara, California. It was incorporated in California in April 1993 and reincorporated in Delaware in April 1998. (page 36, page 5, page 56)",
+    "rag_score": 1.0,
+    "baseline_answer": "NVIDIA is headquartered in Santa Clara, California. According to the company's most recent 10-K filing, NVIDIA was incorporated in the state of Delaware on January 5, 1993.",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What cybersecurity risks does NVIDIA face related to employees and contractors?",
+    "source_page": 20,
+    "retrieved_pages": [
+      20,
+      86,
+      25,
+      23,
+      12
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to page 20 of the context, NVIDIA faces cybersecurity risks due to error or intentional misconduct by employees, contractors, or other third-party service providers. This includes incidents such as employees posting company data on third-party websites without permission.",
+    "rag_score": 1.0,
+    "baseline_answer": "I've reviewed the most recent 10-K filing for NVIDIA, which was filed on February 23, 2023. According to the filing, NVIDIA does face cybersecurity risks related to employees and contractors.\n\nOn page 44 of the 10-K filing, under the section \"Risk Factors,\" NVIDIA mentions that it is a \"target for cyber attacks\" and that it has experienced and may continue to experience cyber attacks, which could compromise its systems and data.\n\nRegarding employees and contractors, NVIDIA notes that it relies on its employees and contractors to maintain the security of its systems and data. However, if these individuals fail to follow security procedures or are compromised by a cyber attack, it could lead to unauthorized access to NVIDIA's systems and data.\n\nAdditionally, NVIDIA mentions that it has a large number of employees and contractors who have access to its systems and data, which increases the risk of a security breach. This is particularly concerning for NVIDIA, as it has a significant amount of sensitive information, including intellectual property and customer data.\n\nTo mitigate these risks, NVIDIA has implemented various security measures, such as:\n\n* Conducting background checks on employees and contractors with access to sensitive information\n* Requiring employees and contractors to comply with NVIDIA's security policies and procedures\n* Providing training to employees and contractors on security best practices\n* Implementing access controls and monitoring to detect and prevent unauthorized access to NVIDIA's systems and data\n\nHowever, despite these measures, NVIDIA still faces a risk of a security breach related to employees and contractors. This risk is considered a \"material weakness\" by NVIDIA, which means that it could have a significant impact on the company's financial condition and results of operations.\n\nIt's worth noting that the 10-K filing is a public document, and NVIDIA's risk assessment and mitigation strategies may have changed since the filing date. However, based on the information available, it appears that NVIDIA does face cybersecurity risks related to employees and contractors.",
+    "baseline_score": 1.0
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What did NVIDIA acquire or license from Groq in December 2025?",
+    "source_page": 61,
+    "retrieved_pages": [
+      61,
+      71,
+      71,
+      71,
+      6
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "NVIDIA entered into a non-exclusive license agreement with Groq, Inc. for its language processing unit technology and hired certain Groq employees in December 2025. No customer contracts, existing products, or equity interests were purchased.",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot confirm any information about NVIDIA acquiring or licensing from Groq in December 2025.",
+    "baseline_score": 0.3333333333333333
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What data privacy and security obligations does NVIDIA say it is subject to?",
+    "source_page": 30,
+    "retrieved_pages": [
+      20,
+      86,
+      3,
+      30,
+      47
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "NVIDIA says it is subject to \"stringent and changing data privacy and security laws, rules, regulations and other obligations\" (page 30).",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to find that information for you. \n\nAccording to NVIDIA's most recent 10-K filing (fiscal year 2022), the company states that it is subject to various data privacy and security obligations, including:\n\n1. The General Data Protection Regulation (GDPR) in the European Union: As a global company with operations in the EU, NVIDIA is subject to the GDPR, which regulates the processing of personal data of EU residents.\n2. The California Consumer Privacy Act (CCPA): As a California-based company, NVIDIA is subject to the CCPA, which provides California residents with certain rights regarding their personal information.\n3. The Health Insurance Portability and Accountability Act (HIPAA): NVIDIA may be subject to HIPAA if it handles protected health information (PHI) in the course of its business.\n4. The Payment Card Industry Data Security Standard (PCI DSS): As a company that processes credit card information, NVIDIA is subject to the PCI DSS, which sets standards for the secure handling of credit card information.\n5. The Securities and Exchange Commission (SEC) rules and regulations: As a publicly traded company, NVIDIA is subject to various SEC rules and regulations, including those related to data security and privacy.\n\nNVIDIA also notes that it is subject to various industry-specific regulations and standards, such as those related to the handling of sensitive information in the technology and semiconductor industries.\n\nPlease note that this information is based on my knowledge cutoff of December 2023, and may not reflect any changes or updates that have occurred since then.",
+    "baseline_score": 0.6666666666666666
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "What risk does NVIDIA describe regarding long manufacturing lead times and customer demand estimation?",
+    "source_page": 15,
+    "retrieved_pages": [
+      16,
+      15,
+      38,
+      16,
+      15
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "NVIDIA describes the risk of mismatches between supply and demand due to long manufacturing lead times and uncertain supply and capacity availability, combined with a failure to estimate customer demand accurately. (page 15)",
+    "rag_score": 0.6666666666666666,
+    "baseline_answer": "Based on my knowledge, NVIDIA's 10-K filing for the most recent year (2022) mentions that the company is exposed to risks related to long manufacturing lead times and customer demand estimation.\n\nAccording to the filing, NVIDIA's manufacturing process involves complex and time-consuming steps, which can result in long lead times for producing and delivering its products. This can make it challenging for the company to meet customer demand, particularly if there are changes in market conditions or unexpected increases in demand.\n\nAdditionally, NVIDIA's business model relies heavily on its ability to accurately estimate customer demand, which can be a significant risk factor. If the company underestimates demand, it may not be able to meet customer needs, leading to lost sales and revenue. Conversely, if NVIDIA overestimates demand, it may end up with excess inventory, which can result in inventory obsolescence and write-downs.\n\nTo mitigate these risks, NVIDIA has implemented various strategies, such as diversifying its product offerings, investing in supply chain optimization, and maintaining a strong relationship with its customers and suppliers.\n\nPlease note that my knowledge may not be up-to-date, and you should verify the information with NVIDIA's most recent 10-K filing or other reliable sources for the most accurate and current information.",
+    "baseline_score": 0.3333333333333333
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What was NVIDIA's total revenue for fiscal year 2026 (year ended January 25, 2026)?",
+    "source_page": [
+      51,
+      79
+    ],
+    "retrieved_pages": [
+      78,
+      78,
+      79,
+      40,
+      68
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$215,938 million (page 79)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that. However, I need to clarify that I'm a large language model, my training data only goes up to 2023, and I don't have access to real-time information or future data.\n\nBut I can try to find the information you're looking for in publicly available sources. Unfortunately, I couldn't find NVIDIA's 10-K filing for fiscal year 2026 (year ended January 25, 2026) in my training data. \n\nHowever, I can suggest some possible sources where you might be able to find the information you're looking for:\n\n1. NVIDIA's investor relations website: You can check NVIDIA's investor relations website for their most recent 10-K filing and other financial information.\n2. EDGAR database: The EDGAR database is a comprehensive source of publicly available information about companies that are listed on major stock exchanges. You can search for NVIDIA's 10-K filing on the EDGAR database.\n3. Financial news websites: Websites like Bloomberg, Yahoo Finance, or Google Finance often provide financial information, including revenue data, for publicly traded companies.\n\nIf you need help finding the information or interpreting the data, feel free to ask!",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was NVIDIA's research and development expense for fiscal year 2026?",
+    "source_page": [
+      41,
+      51
+    ],
+    "retrieved_pages": [
+      68,
+      64,
+      78,
+      77,
+      41
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$18,497 million (page 41)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide information on NVIDIA's 2026 10-K filing as my knowledge cutoff is December 2023. I don't have access to future data.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was NVIDIA's net income for fiscal year 2026 according to the statement of comprehensive income?",
+    "source_page": 52,
+    "retrieved_pages": [
+      52,
+      78,
+      69,
+      54,
+      49
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$120,067 (page 52)",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot provide you with NVIDIA's 2026 financial data. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was NVIDIA's stock-based compensation expense in the cash flow statement for fiscal year 2026?",
+    "source_page": 55,
+    "retrieved_pages": [
+      61,
+      78,
+      55,
+      52,
+      80
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$6,386 million (page 55)",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot provide you with information about NVIDIA's 2026 10-K filing. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "How much revenue did NVIDIA recognize in fiscal year 2026 that was included in the prior year's deferred revenue balance?",
+    "source_page": 69,
+    "retrieved_pages": [
+      69,
+      68,
+      68,
+      78,
+      58
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$974 million (page 69).",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to help you with that. However, I need to clarify that I'm a large language model, my training data only goes up to 2023, and I don't have access to future information or specific data from 2026.\n\nBut, I can try to help you with the information available up to 2023. If you're looking for information on NVIDIA's revenue recognition, I can try to provide you with some general information on their accounting policies.\n\nNVIDIA's 10-K filing for 2022 (the most recent one I have access to) does not provide specific information on revenue recognized from deferred revenue in 2026. However, it does provide information on their accounting policies and revenue recognition.\n\nAccording to NVIDIA's 2022 10-K filing, they recognize revenue from software and services over time, using a performance obligation approach. They also recognize revenue from hardware sales at the time of sale.\n\nIf you're looking for information on deferred revenue, NVIDIA's 2022 10-K filing does provide some information on their deferred revenue balance. According to the filing, NVIDIA's deferred revenue balance as of January 30, 2022, was $1.4 billion. However, this information is from 2022, and I don't have access to the specific information for 2026.\n\nIf you need more up-to-date information or specific data from 2026, I recommend checking NVIDIA's most recent 10-K filing or contacting their investor relations department directly. They should be able to provide you with the most accurate and up-to-date information.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was NVIDIA's gross profit for fiscal year 2026?",
+    "source_page": 51,
+    "retrieved_pages": [
+      37,
+      51,
+      78,
+      78,
+      64
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context on page 51, NVIDIA's gross profit for fiscal year 2026 was $153,463 million.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with information about NVIDIA's 2026 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was NVIDIA's net profit margin (net income as a percentage of revenue) for fiscal year 2026?",
+    "source_page": 51,
+    "retrieved_pages": [
+      78,
+      51,
+      37,
+      40,
+      52
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context, NVIDIA's net income for fiscal year 2026 was $120,067 million (page 51) and revenue for fiscal year 2026 was $215,938 million (page 51). \n\nTo calculate the net profit margin, we divide the net income by the revenue and multiply by 100. \n\nNet profit margin = (Net income / Revenue) * 100 \n= ($120,067 / $215,938) * 100 \n= 55.6% \n\nSo, NVIDIA's net profit margin for fiscal year 2026 was 55.6%.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide information on NVIDIA's 2026 financials. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  }
+]

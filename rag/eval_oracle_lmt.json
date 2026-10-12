@@ -1,0 +1,158 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What happened to the IWSS and C6ISR lines of business within RMS effective January 2026?",
+    "oracle_pages": [
+      5
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "The IWSS and C6ISR lines of business within RMS were restructured and renamed effective January 2026. The IWSS line of business was renamed Sensors, Effectors & Mission Systems (SEMS), and the C6ISR line of business was renamed Mission Integrated Command and Control (MIC2). [page 5]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "What is an Undefinitized Contract Action (UCA)?",
+    "oracle_pages": [
+      12
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "An Undefinitized Contract Action (UCA) is when we begin performing our obligations before the terms, specifications or price are finally agreed to between the parties. (page 12)",
+    "oracle_score": 0.6666666666666666,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What does Lockheed Martin say about pension funding requirements and costs?",
+    "oracle_pages": [
+      20
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the context [page 20], Lockheed Martin states that pension funding requirements and costs are dependent on return on pension assets and other economic and actuarial assumptions which, if changed, may cause their future earnings and cash flow to fluctuate significantly and affect the affordability of their products and services.",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What global security conflicts or tensions does Lockheed Martin mention?",
+    "oracle_pages": [
+      30
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "Lockheed Martin mentions conflicts or tensions in the following areas: \n1. Europe \n2. The Middle East \n3. The Pacific region \n(page 30)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What revenue recognition method does Lockheed Martin use for its long-term fixed price contracts?",
+    "oracle_pages": [
+      51
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "The Corporation generates the majority of its sales from long-term customer contracts whereby substantially all of the Corporation\u2019s revenue is recognized over time using the percentage-of-completion cost-to-cost measure of progress. (page 51)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "What does Lockheed Martin say about its exposure to litigation and environmental proceedings in Item 3 Legal Proceedings?",
+    "oracle_pages": [
+      25
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to Item 3 Legal Proceedings, Lockheed Martin states that they are a party to litigation and other proceedings that arise in the ordinary course of their business, including matters arising under provisions relating to the protection of the environment. They also mention that these types of matters could result in fines, penalties, cost reimbursements or contributions, compensatory or treble damages or non-monetary sanctions or relief. However, they believe the probability is remote that the outcome of each of these matters will have a material adverse effect on the corporation as a whole. (page 25)",
+    "oracle_score": 1.0,
+    "rag_score": 0.3333333333333333
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What were Lockheed Martin's total sales for fiscal year 2025?",
+    "oracle_pages": [
+      52
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the context on page 52, Lockheed Martin's total sales for fiscal year 2025 were $75,048 million.",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What were Lockheed Martin's net earnings for fiscal year 2025?",
+    "oracle_pages": [
+      52
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the context, Lockheed Martin's net earnings for fiscal year 2025 were $5,017 million. \n\n[page 52]",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's revenue from Products for fiscal year 2025?",
+    "oracle_pages": [
+      52
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$57,020 million (page 52)",
+    "oracle_score": 0.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's cash and cash equivalents balance at the end of fiscal year 2025?",
+    "oracle_pages": [
+      54
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$4,121 million (page 54)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's stock-based compensation expense in the cash flow statement for fiscal year 2025?",
+    "oracle_pages": [
+      55
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "According to the context [page 55], Lockheed Martin's stock-based compensation expense for the fiscal year 2025 was $304 million.",
+    "oracle_score": 1.0,
+    "rag_score": 0.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was Lockheed Martin's goodwill balance at the end of fiscal year 2025?",
+    "oracle_pages": [
+      54
+    ],
+    "oracle_coverage": 1.0,
+    "oracle_answer": "$11,314 million (page 54)",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was Lockheed Martin's net profit margin (net earnings as a percentage of total sales) for fiscal year 2025?",
+    "oracle_pages": [
+      52
+    ],
+    "oracle_coverage": NaN,
+    "oracle_answer": "To find the net profit margin for fiscal year 2025, we need to divide the net earnings by the total sales and then multiply by 100.\n\nNet earnings for 2025: $5,017 million (page 52)\nTotal sales for 2025: $75,048 million (page 52)\n\nNet profit margin for 2025 = (Net earnings / Total sales) * 100\n= ($5,017 / $75,048) * 100\n\u2248 6.68%\n\nSo, Lockheed Martin's net profit margin for fiscal year 2025 was approximately 6.68%.",
+    "oracle_score": 1.0,
+    "rag_score": 1.0
+  }
+]

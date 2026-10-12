@@ -1,0 +1,245 @@
+[
+  {
+    "id": "n1",
+    "type": "narrative",
+    "question": "What regulatory risks does BlackRock face in its China operations?",
+    "source_page": 18,
+    "retrieved_pages": [
+      18,
+      33,
+      28,
+      28,
+      28
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "BlackRock's operations in China are subject to a number of regulatory risks, including an evolving regulatory environment, frequent policy changes, and complex data security and data transfer regulations (page 18). These factors may increase compliance risk and costs, limit the Company's ability to source and execute new investment opportunities, and potentially lead to impairment losses on its investments. Additionally, restrictions on transfers of certain types of onshore data of the Company's Chinese entities to offshore entities may limit BlackRock's ability to aggregate, report, and monitor such data on its global platform. Multiple regulators in China have jurisdiction over BlackRock's business operations, increasing operational and regulatory engagement complexity. These risks may be further heightened by additional scrutiny by Chinese regulators of certain sectors, such as technology and other industries that might be deemed to be of national importance.",
+    "rag_score": 1.0,
+    "baseline_answer": "Based on BlackRock's most recent 10-K filing, I can provide some information on the regulatory risks they face in their China operations.\n\nBlackRock has a significant presence in China, with a range of investment products and services offered to both institutional and retail clients. However, as a foreign financial institution, BlackRock is subject to various regulatory risks in China.\n\nOne key risk is the potential for changes in Chinese regulatory policies and laws that could impact BlackRock's business operations. For example, the Chinese government has implemented various regulations aimed at increasing control over foreign financial institutions, including the requirement for foreign companies to establish a local entity and obtain necessary licenses to operate in China.\n\nAnother risk is the potential for restrictions on the flow of capital in and out of China, which could impact BlackRock's ability to manage its investment portfolios and provide services to clients. China has implemented various capital controls in the past, and there is a risk that these controls could be tightened or become more restrictive in the future.\n\nAdditionally, BlackRock faces risks related to the potential for increased scrutiny and oversight by Chinese regulatory authorities. For example, the China Securities Regulatory Commission (CSRC) has increased its focus on foreign financial institutions, including BlackRock, and has implemented various regulations aimed at increasing transparency and disclosure.\n\nBlackRock also faces risks related to the potential for changes in the regulatory environment for asset management companies in China. For example, the Chinese government has implemented various regulations aimed at increasing competition and reducing market concentration in the asset management industry.\n\nTo mitigate these risks, BlackRock has established a local entity in China and has obtained necessary licenses to operate in the country. They have also established relationships with Chinese regulatory authorities and have implemented various compliance and risk management procedures to ensure that they are meeting all relevant regulatory requirements.\n\nIt's worth noting that the information I provided is based on publicly available data and may not reflect the company's current situation or any changes that may have occurred since the 10-K filing was made.",
+    "baseline_score": 0.6666666666666666
+  },
+  {
+    "id": "n2",
+    "type": "narrative",
+    "question": "What is BlackRock's commission file number and when was its fiscal year 2025 annual report period?",
+    "source_page": 1,
+    "retrieved_pages": [
+      1,
+      40,
+      75,
+      77,
+      21
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "BlackRock's commission file number is 001-42297. \n\nThe fiscal year 2025 annual report period is December 31, 2025.",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot confirm BlackRock's commission file number or the fiscal year 2025 annual report period. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "n3",
+    "type": "narrative",
+    "question": "What private markets data company did BlackRock acquire in March 2025, and for approximately how much?",
+    "source_page": 12,
+    "retrieved_pages": [
+      40,
+      42,
+      3,
+      41,
+      42
+    ],
+    "retrieval_hit": false,
+    "rag_answer": "BlackRock acquired Preqin, a leading provider of private markets data, for approximately $3.2 billion in cash. (page 40)",
+    "rag_score": 0.6666666666666666,
+    "baseline_answer": "I cannot confirm the name of the private markets data company BlackRock acquired in March 2025 or the purchase price.",
+    "baseline_score": 0.3333333333333333
+  },
+  {
+    "id": "n4",
+    "type": "narrative",
+    "question": "What does BlackRock say about being the target of cyber-attacks and impersonation of the company?",
+    "source_page": 25,
+    "retrieved_pages": [
+      25,
+      25,
+      25,
+      25,
+      37
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context, on page 25, BlackRock states that it \"continues to be the target of cyber-attacks, as well as the co-opting of its brand and fraudulent impersonations of the Company and members of management.\"",
+    "rag_score": 1.0,
+    "baseline_answer": "I can try to find that information for you. BlackRock's most recent 10-K filing, which is the annual report filed with the SEC, is for the fiscal year ended December 31, 2022. \n\nAccording to the 10-K filing, BlackRock does discuss cybersecurity risks. In the section titled \"Risk Factors,\" under the heading \"Cybersecurity Risks,\" it states that the company is a target for cyber-attacks and other cyber-related risks. \n\nThe filing also mentions that BlackRock has experienced and may in the future experience various types of cyber-attacks, including phishing, malware, and other types of cyber-attacks. These attacks can compromise the confidentiality, integrity, and availability of the company's data and systems.\n\nRegarding impersonation, the filing does not specifically mention it. However, it does discuss the risk of social engineering, which can include phishing and other types of scams that rely on tricking individuals into divulging sensitive information.\n\nIt's worth noting that the 10-K filing is a comprehensive document that covers a wide range of risks, and cybersecurity is just one of the many risks that BlackRock discusses.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "n5",
+    "type": "narrative",
+    "question": "What is the common ownership theory that BlackRock has faced commentary about, and which U.S. regulators have examined it?",
+    "source_page": 35,
+    "retrieved_pages": [
+      35,
+      34,
+      35,
+      35,
+      35
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "The common ownership theory is an academic theory stating that minority ownership of multiple companies within a single industry by the same investor leads to anticompetitive effects. This theory purports to link aggregated equity positions in certain industries with higher consumer prices and executive compensation and lower wages and employment rates, among other things. (page 35)\n\nThe Federal Trade Commission (FTC) has identified common ownership as a key enforcement area and passed a resolution empowering individual commissioners to investigate shareholder conduct in connection with common ownership. (page 35)",
+    "rag_score": 1.0,
+    "baseline_answer": "The common ownership theory refers to the idea that when a small group of large institutional investors, such as BlackRock, Vanguard, and State Street, collectively own a significant portion of a company's shares, it can lead to a concentration of ownership and influence over the company's management and policies.\n\nThis theory suggests that these institutional investors, often referred to as \"passive investors\" or \"index fund managers,\" may prioritize their own interests, such as maximizing returns for their shareholders, over the interests of individual companies or their stakeholders.\n\nSome of the concerns surrounding the common ownership theory include:\n\n1. Reduced corporate governance: With a small group of large institutional investors owning a significant portion of a company's shares, they may have too much influence over the company's management and policies, potentially leading to a lack of accountability and oversight.\n2. Increased focus on short-term gains: Institutional investors may prioritize short-term gains over long-term sustainability and social responsibility, potentially leading to decisions that benefit their shareholders but harm the company or its stakeholders.\n3. Reduced competition: The concentration of ownership among a small group of institutional investors may lead to reduced competition and decreased innovation, as companies may be less likely to take risks or challenge the status quo.\n\nThe common ownership theory has been examined by various U.S. regulators, including:\n\n1. The U.S. Securities and Exchange Commission (SEC): In 2020, the SEC's Division of Corporation Finance issued a statement expressing concerns about the potential risks associated with the common ownership theory.\n2. The U.S. Federal Trade Commission (FTC): In 2020, the FTC's Bureau of Competition issued a report examining the potential antitrust implications of the common ownership theory.\n3. The U.S. House of Representatives' Committee on Financial Services: In 2020, the committee held a hearing to examine the potential risks and benefits associated with the common ownership theory.\n\nIt's worth noting that BlackRock, in particular, has faced commentary and criticism from various stakeholders, including",
+    "baseline_score": 0.6666666666666666
+  },
+  {
+    "id": "n6",
+    "type": "narrative",
+    "question": "How much AUM did BlackRock have at December 31, 2025, and approximately how many employees did it have across how many countries?",
+    "source_page": 40,
+    "retrieved_pages": [
+      40,
+      3,
+      6,
+      13,
+      42
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context, BlackRock had $14.0 trillion of AUM at December 31, 2025 (page 40 and page 3).\n\nAdditionally, BlackRock had approximately 24,900 employees in more than 30 countries as of December 31, 2025 (page 13).",
+    "rag_score": 1.0,
+    "baseline_answer": "I can provide information on BlackRock's AUM and employee count based on publicly available data up to 2022. However, I do not have access to information about 2025.\n\nAs of December 31, 2022, BlackRock's total AUM was approximately $9.1 trillion. \n\nAs for the employee count, as of 2022, BlackRock had around 15,000 employees across more than 40 countries.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q1",
+    "type": "numeric",
+    "question": "What was BlackRock's total revenue for fiscal year 2025?",
+    "source_page": [
+      4,
+      80
+    ],
+    "retrieved_pages": [
+      40,
+      43,
+      118,
+      93,
+      80
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to page 80, BlackRock's total revenue for fiscal year 2025 was $24,216 million.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with BlackRock's total revenue for fiscal year 2025. I do not have access to a search engine to verify the information. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q2",
+    "type": "numeric",
+    "question": "What was BlackRock's operating income for fiscal year 2025?",
+    "source_page": [
+      4,
+      80
+    ],
+    "retrieved_pages": [
+      4,
+      43,
+      118,
+      44,
+      40
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$7,045 million (page 4).",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with BlackRock's 2025 operating income. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q3",
+    "type": "numeric",
+    "question": "What was BlackRock's consolidated net income (before attribution to non-controlling interests) for fiscal year 2025, per the statement of comprehensive income?",
+    "source_page": 81,
+    "retrieved_pages": [
+      4,
+      81,
+      43,
+      82,
+      44
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the Consolidated Statements of Comprehensive Income (page 81), BlackRock's consolidated net income (before attribution to non-controlling interests) for fiscal year 2025 is $5,942 million.",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot provide you with BlackRock's 2025 financial data. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q4",
+    "type": "numeric",
+    "question": "What was BlackRock's net income attributable to BlackRock, Inc. for fiscal year 2025?",
+    "source_page": 4,
+    "retrieved_pages": [
+      4,
+      43,
+      81,
+      118,
+      47
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context on page 4, BlackRock's net income attributable to BlackRock, Inc. for fiscal year 2025 was $5,553 million.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with BlackRock's 2025 financial data. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q5",
+    "type": "numeric",
+    "question": "What was BlackRock's diluted earnings per common share for fiscal year 2025?",
+    "source_page": 4,
+    "retrieved_pages": [
+      4,
+      118,
+      44,
+      43,
+      80
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "According to the context, BlackRock's diluted earnings per common share for fiscal year 2025 was $35.31 (page 43).",
+    "rag_score": 1.0,
+    "baseline_answer": "I cannot provide you with BlackRock's diluted earnings per common share for fiscal year 2025. I do not have access to a search engine to look up the latest financial data. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "q6",
+    "type": "numeric",
+    "question": "What was BlackRock's employee compensation and benefits expense for fiscal year 2025?",
+    "source_page": [
+      54,
+      80
+    ],
+    "retrieved_pages": [
+      54,
+      93,
+      54,
+      43,
+      61
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "$8,446 million (page 54)",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with BlackRock's employee compensation and benefits expense for fiscal year 2025. I do not have access to a search engine to verify the information for you.",
+    "baseline_score": 0.0
+  },
+  {
+    "id": "r1",
+    "type": "reasoning",
+    "question": "What was BlackRock's net margin \u2014 net income attributable to BlackRock, Inc. as a percentage of total revenue \u2014 for fiscal year 2025?",
+    "source_page": 4,
+    "retrieved_pages": [
+      4,
+      43,
+      43,
+      81,
+      47
+    ],
+    "retrieval_hit": true,
+    "rag_answer": "To find BlackRock's net margin for fiscal year 2025, we need to divide the net income attributable to BlackRock, Inc. by the total revenue and then multiply by 100.\n\nNet income attributable to BlackRock, Inc. for 2025: $5,553 (page 4)\nTotal revenue for 2025: $24,216 (page 4)\n\nNet margin for 2025 = (Net income attributable to BlackRock, Inc. / Total revenue) * 100\n= ($5,553 / $24,216) * 100\n= 23.0%\n\nTherefore, BlackRock's net margin for fiscal year 2025 was 23.0%.",
+    "rag_score": 1.0,
+    "baseline_answer": "I can't provide you with BlackRock's 2025 financial data. Is there anything else I can help you with?",
+    "baseline_score": 0.0
+  }
+]
