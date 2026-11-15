@@ -91,6 +91,15 @@ jobs:
             --max-turns 20
             --allowedTools "Read,Glob,Grep,Write,Bash(git log:*),Bash(git show:*),Bash(git diff:*),Bash(git blame:*),Bash(gh pr list:*),Bash(gh pr view:*),Bash(gh pr diff:*),Bash(gh issue list:*),Bash(gh issue view:*),Bash(gh run list:*),Bash(gh run view:*),Bash(gh search:*)"
 
+      - name: Report usage
+        # One line for the dashboard's per-job usage (turns, API-equivalent cost, time): numbers only, never the transcript.
+        if: always()
+        run: |
+          f="${{ runner.temp }}/claude-execution-output.json"
+          u=$( [ -f "$f" ] && jq -c 'def n: if type == "number" then . else null end; [.[] | select(.type == "result")] | last // {} | {turns: (.num_turns | n), cost_usd: (.total_cost_usd | n), duration_ms: (.duration_ms | n)}' "$f" 2>/dev/null ) || u='{}'
+          [ -n "$u" ] || u='{}'
+          echo "RELAY-USAGE $u"
+
       - name: Why did Claude fail
         # The action hides Claude's own output. Print ONLY the final result line (an error message, never the transcript)
         # so a failure like "invalid token" or "usage limit reached" is visible without exposing the run in a public log.
