@@ -91,6 +91,14 @@ jobs:
             --max-turns 20
             --allowedTools "Read,Glob,Grep,Write,Bash(git log:*),Bash(git show:*),Bash(git diff:*),Bash(git blame:*),Bash(gh pr list:*),Bash(gh pr view:*),Bash(gh pr diff:*),Bash(gh issue list:*),Bash(gh issue view:*),Bash(gh run list:*),Bash(gh run view:*),Bash(gh search:*)"
 
+      - name: Why did Claude fail
+        # The action hides Claude's own output. Print ONLY the final result line (an error message, never the transcript)
+        # so a failure like "invalid token" or "usage limit reached" is visible without exposing the run in a public log.
+        if: failure()
+        run: |
+          f="${{ runner.temp }}/claude-execution-output.json"
+          [ -f "$f" ] && jq -r '[.[] | select(.type=="result")] | last | "claude result: \(.subtype // "?") is_error=\(.is_error // "?") \(.result // "")"' "$f" | head -c 400 || echo "no execution file"
+
       - name: Emit answer
         if: always()
         run: |
