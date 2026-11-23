@@ -10,7 +10,7 @@ Most of my time went into the evaluation. I wrote 65 questions across five
 the filing, and traced every lost point back to its cause.
 
 **Report:** [Local-RAG-10K-Eval-Report.pdf](Local-RAG-10K-Eval-Report.pdf)
-(5 pages, with charts)
+(7 pages; generated from the result files by `rag/report/`)
 
 ## Results
 

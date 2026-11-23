@@ -13,23 +13,24 @@ what breaks and why.
 2. [Corpus](#corpus)
 3. [Eval harness](#eval-harness)
 4. [Current results](#current-results-65-questions-pooled)
-5. [Next steps](#next-steps)
+5. [Report (2026-11-23 redesign)](#report-2026-11-23-redesign)
+6. [Next steps](#next-steps)
 
 **Latest analysis (2026-10-11, 13-question sets)**
 
-6. [Question set equalization + reasoning questions](#question-set-equalization--reasoning-question-type-2026-10-11)
-7. [Review pass — chunk-level verification](#review-pass--chunk-level-verification-2026-10-11)
-8. [Grounding check — all 65 answers](#grounding-check--all-65-answers-2026-10-11)
-9. [Oracle condition — gold context only](#oracle-condition--gold-context-only-2026-10-11)
+7. [Question set equalization + reasoning questions](#question-set-equalization--reasoning-question-type-2026-10-11)
+8. [Review pass — chunk-level verification](#review-pass--chunk-level-verification-2026-10-11)
+9. [Grounding check — all 65 answers](#grounding-check--all-65-answers-2026-10-11)
+10. [Oracle condition — gold context only](#oracle-condition--gold-context-only-2026-10-11)
 
 **History (superseded tables, kept for the record)**
 
-10. [Microsoft: building the pipeline](#history-1--microsoft-building-the-pipeline)
-11. [NVIDIA](#history-2--nvidia)
-12. [Tesla](#history-3--tesla)
-13. [Lockheed Martin](#history-4--lockheed-martin)
-14. [BlackRock](#history-5--blackrock)
-15. [Open problem: numeric/tabular retrieval](#open-problem--numerictabular-retrieval)
+11. [Microsoft: building the pipeline](#history-1--microsoft-building-the-pipeline)
+12. [NVIDIA](#history-2--nvidia)
+13. [Tesla](#history-3--tesla)
+14. [Lockheed Martin](#history-4--lockheed-martin)
+15. [BlackRock](#history-5--blackrock)
+16. [Open problem: numeric/tabular retrieval](#open-problem--numerictabular-retrieval)
 
 ---
 
@@ -168,6 +169,22 @@ and [Grounding check](#grounding-check--all-65-answers-2026-10-11) sections.
   every change raised a score; a held-out set is the real fix.
 - Some narrative checks use keywords already present in the question.
 - Decoding is greedy, so reruns are identical.
+
+---
+
+## Report (2026-11-23 redesign)
+
+I rebuilt `Local-RAG-10K-Eval-Report.pdf` in the same plain technical-report layout as my
+second project (trading-coder): numbered sections, ruled tables, captioned figures, 7 pages.
+The content and conclusions are unchanged. It is now generated from the result files
+(`rag/report/make_figures.py`, `rag/report/build_pdf.py`), and the figure script stops with an
+error if the recomputed scores don't match the published ones.
+
+- Every point estimate recomputed from `eval_results_*.json` / `eval_oracle_*.json` matches the
+  published numbers: RAG 0.87, no retrieval 0.24, hit@5 0.92, gold chunks 0.87, paired difference
+  −0.003, 7 answers better and 8 worse with gold context.
+- A fresh bootstrap gives the same intervals up to ±0.01 depending on the seed (hit@5: 0.85–0.98 vs.
+  the published 0.86–0.98), so the report keeps the published intervals.
 
 ---
 
